@@ -1,0 +1,11 @@
+auto ordinarily ignores top-level const
+
+There is a reference, and when we bind a reference directly to const int, in the realm of auto the const is preserved.
+
+decltype, which returns the type of its operand. The compiler analyzes the expression to determine its type but does not evaluate the expression.
+
+When the expression to which we apply decltype is a variable, decltype returns the type of that variable, including top-level const and references.
+
+If decltype(expr), it evaluates to value of expr.
+
+decltype((variable)) (note, double parentheses) is always a reference type, but decltype(variable) is a reference type only if variable is a reference.
