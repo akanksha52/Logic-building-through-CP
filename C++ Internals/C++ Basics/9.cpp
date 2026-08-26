@@ -6,7 +6,8 @@ class String
 public:
     char* m_data;
     uint32_t m_size;
-    String() = default;
+    String() : m_data(nullptr), m_size(0)
+    {}
     String(const char* string)
     {
         cout<<"Created\n";
@@ -36,10 +37,23 @@ public:
             cout<<m_data[i];
         cout<<endl;
     }
+    String& operator=(String&& a)
+    {
+        cout<<"Operator =\n";
+        if(this!=&a) 
+        {
+            delete[] m_data;
+            m_size=a.m_size;
+            m_data=a.m_data;
+            a.m_size=0;
+            a.m_data=nullptr;
+        }
+        return *this;
+    }
     ~String()
     {
         cout<<"Destroyed"<<endl;
-        delete m_data;
+        delete[] m_data;
     }
 };
 class Entity
@@ -60,10 +74,27 @@ public:
 };
 int main()
 {
-    //String a("Hello");
-    //cout<<endl;
-    Entity e("Hey");
-    //Entity b("Silky");
-    e.printEntity();
+    // //String a("Hello");
+    // //cout<<endl;
+    // Entity e("Hey");
+    // //Entity b("Silky");
+    // e.printEntity();
+    // String src = "Hello";
+    // String dest((String &&) src);
+    // String src2 = "Hello";
+    // String dest2 = move(src);
+    // String src3 = "Hello";
+    // dest2 = move(src3);
+    String apple = "apple";
+    String fruit;
+    apple.Print();
+    fruit.Print();
+    fruit = move(apple);
+    apple.Print();
+    fruit.Print();
+    String mango = "Mango";
+    String frt;mango;
+    mango.Print();
+    frt.Print();
     return 0;
 }
