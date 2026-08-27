@@ -5,3 +5,7 @@ The virtual table (vtable) contains entries for the virtual functions, and a bas
 2 cost assosiated with virtual:
 a. Memory to store v table
 b. Everytime we call a virtual function time and resources spent on figuring out which function to actually call
+
+We need virtual destructor so that when the pointer of base class pointing to derived class is deleted we need the destructor of derived class to be called as well which esentially requires destructor to be declared virtual.
+
+Override keyword improves readability and improves coding by marking out obvious errors.
