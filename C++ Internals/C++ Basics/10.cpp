@@ -65,6 +65,23 @@ public:
         cout<<"Person4 destructor\n";
     }
 };
+class Entity5
+{
+public:
+    virtual string getName() = 0;
+    virtual void hello()
+    {
+        cout<<"Hello\n";
+    }
+};
+class Person5 : public Entity5
+{
+public:
+    string getName()
+    {
+        return "Person";
+    }
+};
 int main()
 {
     Entity A;
@@ -104,5 +121,14 @@ int main()
     delete N;
     delete O;
     delete P;
+    cout<<"------------------------------------------\n";
+    Entity5 *Q = new Person5();
+    // Entity5 R;
+    // Entity5 *S = new Entity5();
+    Person5 T;
+    cout<<Q->getName()<<endl;
+    Q->hello();
+    cout<<T.getName()<<endl;
+    T.hello();
     return 0;
 }
