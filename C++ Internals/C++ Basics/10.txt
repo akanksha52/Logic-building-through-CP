@@ -1,0 +1,7 @@
+We want C++ to recognise that the pointer of base class is pointing to the derived entity.
+
+The virtual table (vtable) contains entries for the virtual functions, and a base-class object contains a vptr pointing to that vtable. At runtime, C++ uses the vptr to determine the appropriate vtable and calls the overridden virtual function corresponding to the actual object type.
+
+2 cost assosiated with virtual:
+a. Memory to store v table
+b. Everytime we call a virtual function time and resources spent on figuring out which function to actually call
