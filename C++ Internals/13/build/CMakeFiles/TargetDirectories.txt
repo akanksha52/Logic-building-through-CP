@@ -1,0 +1,3 @@
+C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/1.dir
+C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/ZERO_CHECK.dir
