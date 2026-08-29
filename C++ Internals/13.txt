@@ -26,3 +26,12 @@ Coomand is: cmake --build build --comfig Debug.
 
 To run the executable: .\build\Debug\1.exe
 
+project() informs CMake that what follows is the description of a distinct software project of a given name. When CMake sees the project() command it performs various checks to ensure the environment is suitable for building software; such as checking for compilers and other build tooling, and discovering properties like the endianness of the host and target machines.
+
+add_executable() command creates a target. In CMake lingo, a target is a name the developer gives to a collection of properties.Some examples of properties a target might want to keep track of are: The artifact kind (executable, library, header collection, etc), Source files, Include directories, Output name of an executable or library, Dependencies, Compiler and linker flags.
+
+add_library() command reate a library target named MathFunctions.
+
+CMake needs a way to describe a group of header files belonging to a target. That's what FILE_SET provides.
+
+BASE_DIRS include. basically tells CMake: This is the directory from which these headers should be discoverable.
