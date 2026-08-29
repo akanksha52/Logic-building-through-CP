@@ -61,12 +61,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\mongosh"
         - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
-        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\nvm4w\\nodejs"
         - "C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.4.1\\"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\Ollama"
+        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\Users\\akank\\AppData\\Local\\nvm\\v24.11.1"
         - "C:\\WINDOWS\\system32"
@@ -94,7 +94,7 @@ events:
       The output was:
       0
       MSBuild version 18.0.5+e22287bf1 for .NET Framework
-      Build started 28-08-2026 20:48:40.
+      Build started 29-08-2026 23:50:01.
       
       Project "C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\4.4.3\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -123,7 +123,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:01.29
+      Time Elapsed 00:00:01.39
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -177,12 +177,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Users/akank/AppData/Local/Programs/mongosh/"
       - "C:/Program Files/MongoDB/Server/8.0/bin/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/akank/AppData/Local/nvm/"
       - "C:/nvm4w/nodejs/"
       - "C:/Program Files/NVIDIA Corporation/Nsight Compute 2025.4.1/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/akank/AppData/Local/Programs/Ollama/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/"
       - "C:/Users/akank/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/akank/AppData/Local/Python/bin/"
@@ -219,12 +219,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\mongosh"
         - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
-        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\nvm4w\\nodejs"
         - "C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.4.1\\"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\Ollama"
+        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\Users\\akank\\AppData\\Local\\nvm\\v24.11.1"
         - "C:\\WINDOWS\\system32"
@@ -280,12 +280,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Users/akank/AppData/Local/Programs/mongosh/"
       - "C:/Program Files/MongoDB/Server/8.0/bin/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/akank/AppData/Local/nvm/"
       - "C:/nvm4w/nodejs/"
       - "C:/Program Files/NVIDIA Corporation/Nsight Compute 2025.4.1/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/akank/AppData/Local/Programs/Ollama/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/"
       - "C:/Users/akank/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/akank/AppData/Local/Python/bin/"
@@ -358,9 +358,6 @@ events:
       - "C:/Program Files/MongoDB/Server/8.0/bin/lld-link.com"
       - "C:/Program Files/MongoDB/Server/8.0/bin/lld-link.exe"
       - "C:/Program Files/MongoDB/Server/8.0/bin/lld-link"
-      - "C:/Program Files/CMake/bin/lld-link.com"
-      - "C:/Program Files/CMake/bin/lld-link.exe"
-      - "C:/Program Files/CMake/bin/lld-link"
       - "C:/Users/akank/AppData/Local/nvm/lld-link.com"
       - "C:/Users/akank/AppData/Local/nvm/lld-link.exe"
       - "C:/Users/akank/AppData/Local/nvm/lld-link"
@@ -376,6 +373,9 @@ events:
       - "C:/Users/akank/AppData/Local/Programs/Ollama/lld-link.com"
       - "C:/Users/akank/AppData/Local/Programs/Ollama/lld-link.exe"
       - "C:/Users/akank/AppData/Local/Programs/Ollama/lld-link"
+      - "C:/Program Files/CMake/bin/lld-link.com"
+      - "C:/Program Files/CMake/bin/lld-link.exe"
+      - "C:/Program Files/CMake/bin/lld-link"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/lld-link.com"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/lld-link.exe"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/lld-link"
@@ -420,12 +420,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\mongosh"
         - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
-        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\nvm4w\\nodejs"
         - "C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.4.1\\"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\Ollama"
+        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\Users\\akank\\AppData\\Local\\nvm\\v24.11.1"
         - "C:\\WINDOWS\\system32"
@@ -479,12 +479,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Users/akank/AppData/Local/Programs/mongosh/"
       - "C:/Program Files/MongoDB/Server/8.0/bin/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/akank/AppData/Local/nvm/"
       - "C:/nvm4w/nodejs/"
       - "C:/Program Files/NVIDIA Corporation/Nsight Compute 2025.4.1/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/akank/AppData/Local/Programs/Ollama/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/"
       - "C:/Users/akank/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/akank/AppData/Local/Python/bin/"
@@ -521,12 +521,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\mongosh"
         - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
-        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\nvm4w\\nodejs"
         - "C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.4.1\\"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\Ollama"
+        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\Users\\akank\\AppData\\Local\\nvm\\v24.11.1"
         - "C:\\WINDOWS\\system32"
@@ -580,12 +580,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Users/akank/AppData/Local/Programs/mongosh/"
       - "C:/Program Files/MongoDB/Server/8.0/bin/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/akank/AppData/Local/nvm/"
       - "C:/nvm4w/nodejs/"
       - "C:/Program Files/NVIDIA Corporation/Nsight Compute 2025.4.1/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/akank/AppData/Local/Programs/Ollama/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/"
       - "C:/Users/akank/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/akank/AppData/Local/Python/bin/"
@@ -658,9 +658,6 @@ events:
       - "C:/Program Files/MongoDB/Server/8.0/bin/mt.com"
       - "C:/Program Files/MongoDB/Server/8.0/bin/mt.exe"
       - "C:/Program Files/MongoDB/Server/8.0/bin/mt"
-      - "C:/Program Files/CMake/bin/mt.com"
-      - "C:/Program Files/CMake/bin/mt.exe"
-      - "C:/Program Files/CMake/bin/mt"
       - "C:/Users/akank/AppData/Local/nvm/mt.com"
       - "C:/Users/akank/AppData/Local/nvm/mt.exe"
       - "C:/Users/akank/AppData/Local/nvm/mt"
@@ -676,6 +673,9 @@ events:
       - "C:/Users/akank/AppData/Local/Programs/Ollama/mt.com"
       - "C:/Users/akank/AppData/Local/Programs/Ollama/mt.exe"
       - "C:/Users/akank/AppData/Local/Programs/Ollama/mt"
+      - "C:/Program Files/CMake/bin/mt.com"
+      - "C:/Program Files/CMake/bin/mt.exe"
+      - "C:/Program Files/CMake/bin/mt"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/mt.com"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/mt.exe"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/mt"
@@ -720,12 +720,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\mongosh"
         - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
-        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\nvm4w\\nodejs"
         - "C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.4.1\\"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\Ollama"
+        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\Users\\akank\\AppData\\Local\\nvm\\v24.11.1"
         - "C:\\WINDOWS\\system32"
@@ -779,12 +779,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Users/akank/AppData/Local/Programs/mongosh/"
       - "C:/Program Files/MongoDB/Server/8.0/bin/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/akank/AppData/Local/nvm/"
       - "C:/nvm4w/nodejs/"
       - "C:/Program Files/NVIDIA Corporation/Nsight Compute 2025.4.1/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/akank/AppData/Local/Programs/Ollama/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/"
       - "C:/Users/akank/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/akank/AppData/Local/Python/bin/"
@@ -821,12 +821,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\mongosh"
         - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
-        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\nvm4w\\nodejs"
         - "C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.4.1\\"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\Ollama"
+        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\Users\\akank\\AppData\\Local\\nvm\\v24.11.1"
         - "C:\\WINDOWS\\system32"
@@ -891,12 +891,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\mongosh"
         - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
-        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\nvm4w\\nodejs"
         - "C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.4.1\\"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\Ollama"
+        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\Users\\akank\\AppData\\Local\\nvm\\v24.11.1"
         - "C:\\WINDOWS\\system32"
@@ -924,7 +924,7 @@ events:
       The output was:
       0
       MSBuild version 18.0.5+e22287bf1 for .NET Framework
-      Build started 28-08-2026 20:48:42.
+      Build started 29-08-2026 23:50:03.
       
       Project "C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\4.4.3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -953,7 +953,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:01.31
+      Time Elapsed 00:00:01.36
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -1007,12 +1007,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Users/akank/AppData/Local/Programs/mongosh/"
       - "C:/Program Files/MongoDB/Server/8.0/bin/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/akank/AppData/Local/nvm/"
       - "C:/nvm4w/nodejs/"
       - "C:/Program Files/NVIDIA Corporation/Nsight Compute 2025.4.1/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/akank/AppData/Local/Programs/Ollama/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/"
       - "C:/Users/akank/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/akank/AppData/Local/Python/bin/"
@@ -1085,9 +1085,6 @@ events:
       - "C:/Program Files/MongoDB/Server/8.0/bin/lld-link.com"
       - "C:/Program Files/MongoDB/Server/8.0/bin/lld-link.exe"
       - "C:/Program Files/MongoDB/Server/8.0/bin/lld-link"
-      - "C:/Program Files/CMake/bin/lld-link.com"
-      - "C:/Program Files/CMake/bin/lld-link.exe"
-      - "C:/Program Files/CMake/bin/lld-link"
       - "C:/Users/akank/AppData/Local/nvm/lld-link.com"
       - "C:/Users/akank/AppData/Local/nvm/lld-link.exe"
       - "C:/Users/akank/AppData/Local/nvm/lld-link"
@@ -1103,6 +1100,9 @@ events:
       - "C:/Users/akank/AppData/Local/Programs/Ollama/lld-link.com"
       - "C:/Users/akank/AppData/Local/Programs/Ollama/lld-link.exe"
       - "C:/Users/akank/AppData/Local/Programs/Ollama/lld-link"
+      - "C:/Program Files/CMake/bin/lld-link.com"
+      - "C:/Program Files/CMake/bin/lld-link.exe"
+      - "C:/Program Files/CMake/bin/lld-link"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/lld-link.com"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/lld-link.exe"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/lld-link"
@@ -1147,12 +1147,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\mongosh"
         - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
-        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\nvm4w\\nodejs"
         - "C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.4.1\\"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\Ollama"
+        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\Users\\akank\\AppData\\Local\\nvm\\v24.11.1"
         - "C:\\WINDOWS\\system32"
@@ -1208,12 +1208,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Users/akank/AppData/Local/Programs/mongosh/"
       - "C:/Program Files/MongoDB/Server/8.0/bin/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/akank/AppData/Local/nvm/"
       - "C:/nvm4w/nodejs/"
       - "C:/Program Files/NVIDIA Corporation/Nsight Compute 2025.4.1/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/akank/AppData/Local/Programs/Ollama/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/"
       - "C:/Users/akank/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/akank/AppData/Local/Python/bin/"
@@ -1295,9 +1295,6 @@ events:
       - "C:/Program Files/MongoDB/Server/8.0/bin/rc.com"
       - "C:/Program Files/MongoDB/Server/8.0/bin/rc.exe"
       - "C:/Program Files/MongoDB/Server/8.0/bin/rc"
-      - "C:/Program Files/CMake/bin/rc.com"
-      - "C:/Program Files/CMake/bin/rc.exe"
-      - "C:/Program Files/CMake/bin/rc"
       - "C:/Users/akank/AppData/Local/nvm/rc.com"
       - "C:/Users/akank/AppData/Local/nvm/rc.exe"
       - "C:/Users/akank/AppData/Local/nvm/rc"
@@ -1313,6 +1310,9 @@ events:
       - "C:/Users/akank/AppData/Local/Programs/Ollama/rc.com"
       - "C:/Users/akank/AppData/Local/Programs/Ollama/rc.exe"
       - "C:/Users/akank/AppData/Local/Programs/Ollama/rc"
+      - "C:/Program Files/CMake/bin/rc.com"
+      - "C:/Program Files/CMake/bin/rc.exe"
+      - "C:/Program Files/CMake/bin/rc"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/rc.com"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/rc.exe"
       - "C:/Users/akank/AppData/Local/nvm/v24.11.1/rc"
@@ -1393,12 +1393,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\mongosh"
         - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
-        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\nvm4w\\nodejs"
         - "C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.4.1\\"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\akank\\AppData\\Local\\Programs\\Ollama"
+        - "C:\\Program Files\\CMake\\bin"
         - "C:\\Users\\akank\\AppData\\Local\\nvm"
         - "C:\\Users\\akank\\AppData\\Local\\nvm\\v24.11.1"
         - "C:\\WINDOWS\\system32"
@@ -1425,8 +1425,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-3cl9ri"
-      binary: "C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-3cl9ri"
+      source: "C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-rik9ev"
+      binary: "C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-rik9ev"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
@@ -1436,39 +1436,39 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: false
       stdout: |
-        Change Dir: 'C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-3cl9ri'
+        Change Dir: 'C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-rik9ev'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_ebe40.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_786e7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
         MSBuild version 18.0.5+e22287bf1 for .NET Framework
-        Build started 28-08-2026 20:48:44.
+        Build started 29-08-2026 23:50:05.
         
-        Project "C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3cl9ri\\cmTC_ebe40.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rik9ev\\cmTC_786e7.vcxproj" on node 1 (default targets).
         PrepareForBuild:
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3cl9ri\\Debug\\".
-          Creating directory "cmTC_ebe40.dir\\Debug\\cmTC_ebe40.tlog\\".
+          Creating directory "C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rik9ev\\Debug\\".
+          Creating directory "cmTC_786e7.dir\\Debug\\cmTC_786e7.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_ebe40.dir\\Debug\\cmTC_ebe40.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_ebe40.dir\\Debug\\cmTC_ebe40.tlog\\unsuccessfulbuild".
+          Creating "cmTC_786e7.dir\\Debug\\cmTC_786e7.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_786e7.dir\\Debug\\cmTC_786e7.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_ebe40.dir\\Debug\\\\" /Fd"cmTC_ebe40.dir\\Debug\\vc145.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_786e7.dir\\Debug\\\\" /Fd"cmTC_786e7.dir\\Debug\\vc145.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.50.35722 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_ebe40.dir\\Debug\\\\" /Fd"cmTC_ebe40.dir\\Debug\\vc145.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_786e7.dir\\Debug\\\\" /Fd"cmTC_786e7.dir\\Debug\\vc145.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3cl9ri\\Debug\\cmTC_ebe40.exe" /INCREMENTAL /ILK:"cmTC_ebe40.dir\\Debug\\cmTC_ebe40.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-3cl9ri/Debug/cmTC_ebe40.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-3cl9ri/Debug/cmTC_ebe40.lib" /MACHINE:X64  /machine:x64 cmTC_ebe40.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_ebe40.vcxproj -> C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3cl9ri\\Debug\\cmTC_ebe40.exe
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rik9ev\\Debug\\cmTC_786e7.exe" /INCREMENTAL /ILK:"cmTC_786e7.dir\\Debug\\cmTC_786e7.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-rik9ev/Debug/cmTC_786e7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-rik9ev/Debug/cmTC_786e7.lib" /MACHINE:X64  /machine:x64 cmTC_786e7.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_786e7.vcxproj -> C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rik9ev\\Debug\\cmTC_786e7.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_ebe40.dir\\Debug\\cmTC_ebe40.tlog\\unsuccessfulbuild".
-          Touching "cmTC_ebe40.dir\\Debug\\cmTC_ebe40.tlog\\cmTC_ebe40.lastbuildstate".
-        Done Building Project "C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3cl9ri\\cmTC_ebe40.vcxproj" (default targets).
+          Deleting file "cmTC_786e7.dir\\Debug\\cmTC_786e7.tlog\\unsuccessfulbuild".
+          Touching "cmTC_786e7.dir\\Debug\\cmTC_786e7.tlog\\cmTC_786e7.lastbuildstate".
+        Done Building Project "C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rik9ev\\cmTC_786e7.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:01.30
+        Time Elapsed 00:00:01.29
         
       exitCode: 0
   -
@@ -1481,7 +1481,7 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
-        link line: [  C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3cl9ri\\Debug\\cmTC_ebe40.exe" /INCREMENTAL /ILK:"cmTC_ebe40.dir\\Debug\\cmTC_ebe40.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-3cl9ri/Debug/cmTC_ebe40.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-3cl9ri/Debug/cmTC_ebe40.lib" /MACHINE:X64  /machine:x64 cmTC_ebe40.dir\\Debug\\CMakeCCompilerABI.obj] ==> linker [C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe]
+        link line: [  C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rik9ev\\Debug\\cmTC_786e7.exe" /INCREMENTAL /ILK:"cmTC_786e7.dir\\Debug\\cmTC_786e7.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-rik9ev/Debug/cmTC_786e7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-rik9ev/Debug/cmTC_786e7.lib" /MACHINE:X64  /machine:x64 cmTC_786e7.dir\\Debug\\CMakeCCompilerABI.obj] ==> linker [C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe]
         linker tool for 'C': C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/HostX64/x64/link.exe 
         implicit libs: []
         implicit objs: []
@@ -1509,8 +1509,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-d7uxbq"
-      binary: "C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-d7uxbq"
+      source: "C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-7mh8fv"
+      binary: "C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-7mh8fv"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -1521,39 +1521,39 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: false
       stdout: |
-        Change Dir: 'C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-d7uxbq'
+        Change Dir: 'C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-7mh8fv'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_081a4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8f441.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
         MSBuild version 18.0.5+e22287bf1 for .NET Framework
-        Build started 28-08-2026 20:48:46.
+        Build started 29-08-2026 23:50:07.
         
-        Project "C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-d7uxbq\\cmTC_081a4.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7mh8fv\\cmTC_8f441.vcxproj" on node 1 (default targets).
         PrepareForBuild:
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-d7uxbq\\Debug\\".
-          Creating directory "cmTC_081a4.dir\\Debug\\cmTC_081a4.tlog\\".
+          Creating directory "C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7mh8fv\\Debug\\".
+          Creating directory "cmTC_8f441.dir\\Debug\\cmTC_8f441.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_081a4.dir\\Debug\\cmTC_081a4.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_081a4.dir\\Debug\\cmTC_081a4.tlog\\unsuccessfulbuild".
+          Creating "cmTC_8f441.dir\\Debug\\cmTC_8f441.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_8f441.dir\\Debug\\cmTC_8f441.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_081a4.dir\\Debug\\\\" /Fd"cmTC_081a4.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_8f441.dir\\Debug\\\\" /Fd"cmTC_8f441.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.50.35722 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_081a4.dir\\Debug\\\\" /Fd"cmTC_081a4.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_8f441.dir\\Debug\\\\" /Fd"cmTC_8f441.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-d7uxbq\\Debug\\cmTC_081a4.exe" /INCREMENTAL /ILK:"cmTC_081a4.dir\\Debug\\cmTC_081a4.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-d7uxbq/Debug/cmTC_081a4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-d7uxbq/Debug/cmTC_081a4.lib" /MACHINE:X64  /machine:x64 cmTC_081a4.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_081a4.vcxproj -> C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-d7uxbq\\Debug\\cmTC_081a4.exe
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7mh8fv\\Debug\\cmTC_8f441.exe" /INCREMENTAL /ILK:"cmTC_8f441.dir\\Debug\\cmTC_8f441.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-7mh8fv/Debug/cmTC_8f441.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-7mh8fv/Debug/cmTC_8f441.lib" /MACHINE:X64  /machine:x64 cmTC_8f441.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_8f441.vcxproj -> C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7mh8fv\\Debug\\cmTC_8f441.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_081a4.dir\\Debug\\cmTC_081a4.tlog\\unsuccessfulbuild".
-          Touching "cmTC_081a4.dir\\Debug\\cmTC_081a4.tlog\\cmTC_081a4.lastbuildstate".
-        Done Building Project "C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-d7uxbq\\cmTC_081a4.vcxproj" (default targets).
+          Deleting file "cmTC_8f441.dir\\Debug\\cmTC_8f441.tlog\\unsuccessfulbuild".
+          Touching "cmTC_8f441.dir\\Debug\\cmTC_8f441.tlog\\cmTC_8f441.lastbuildstate".
+        Done Building Project "C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7mh8fv\\cmTC_8f441.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:01.27
+        Time Elapsed 00:00:01.32
         
       exitCode: 0
   -
@@ -1566,7 +1566,7 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
-        link line: [  C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-d7uxbq\\Debug\\cmTC_081a4.exe" /INCREMENTAL /ILK:"cmTC_081a4.dir\\Debug\\cmTC_081a4.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-d7uxbq/Debug/cmTC_081a4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-d7uxbq/Debug/cmTC_081a4.lib" /MACHINE:X64  /machine:x64 cmTC_081a4.dir\\Debug\\CMakeCXXCompilerABI.obj] ==> linker [C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe]
+        link line: [  C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\akank\\Desktop\\2026\\Jennie\\C++ Internals\\13\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7mh8fv\\Debug\\cmTC_8f441.exe" /INCREMENTAL /ILK:"cmTC_8f441.dir\\Debug\\cmTC_8f441.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-7mh8fv/Debug/cmTC_8f441.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/CMakeScratch/TryCompile-7mh8fv/Debug/cmTC_8f441.lib" /MACHINE:X64  /machine:x64 cmTC_8f441.dir\\Debug\\CMakeCXXCompilerABI.obj] ==> linker [C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe]
         linker tool for 'CXX': C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/HostX64/x64/link.exe 
         implicit libs: []
         implicit objs: []
