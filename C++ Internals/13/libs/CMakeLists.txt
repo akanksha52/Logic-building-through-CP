@@ -4,6 +4,12 @@ target_sources(MathFunctions
         add.cpp
     PUBLIC
         FILE_SET HEADERS
+        BASE_DIRS
+            headers
         FILES
-            add.h
+            headers/add.h
+)
+target_include_directories(MathFunctions
+    PRIVATE 
+        headers
 )

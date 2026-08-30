@@ -49,3 +49,5 @@ We can write link librares command before add library, CMake doesn't execute the
 add_subdirectory() tells CMake to go into this subdirectory and process the CMakeLists.txt file there too.
 
 project() simply gives iverall CMake project a name.
+
+target_include_directories() helps the compiler to find the header file. When compiling this target, search these directories for header files. For the target, headers/ is an include directory, and make this include path available to consumers of targets too.
