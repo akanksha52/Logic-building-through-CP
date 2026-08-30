@@ -46,3 +46,6 @@ PUBLIC: Target and consumers needs library.
 
 We can write link librares command before add library, CMake doesn't execute the compiler line by line, it describes a project.
 
+add_subdirectory() tells CMake to go into this subdirectory and process the CMakeLists.txt file there too.
+
+project() simply gives iverall CMake project a name.
