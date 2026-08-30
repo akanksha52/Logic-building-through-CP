@@ -17,3 +17,7 @@ target_sources(MathFunctions
         FILES
             libs/add.h
 )
+target_link_libraries(target
+    PRIVATE
+        MathFunctions
+)

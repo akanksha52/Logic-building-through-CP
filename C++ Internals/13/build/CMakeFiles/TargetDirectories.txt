@@ -1,4 +1,0 @@
-C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/target.dir
-C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/MathFunctions.dir
-C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/akank/Desktop/2026/Jennie/C++ Internals/13/build/CMakeFiles/ZERO_CHECK.dir
