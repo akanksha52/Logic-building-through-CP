@@ -35,3 +35,14 @@ add_library() command reate a library target named MathFunctions.
 CMake needs a way to describe a group of header files belonging to a target. That's what FILE_SET provides.
 
 BASE_DIRS include. basically tells CMake: This is the directory from which these headers should be discoverable.
+
+target_link_lobraries command link the target to the lobraries it uses.
+
+PRIVATE: Only the target needs the library.
+
+INTERFACE: The target itself doesn't need the library, but consumers of the target do.
+
+PUBLIC: Target and consumers needs library.
+
+We can write link librares command before add library, CMake doesn't execute the compiler line by line, it describes a project.
+
