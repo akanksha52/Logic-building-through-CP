@@ -26,3 +26,21 @@ int main()
     while(t--) solve();
     return 0;
 }
+#include <bits/stdc++.h>
+using namespace std;
+void solve()
+{
+
+}
+int main()
+{
+    int t;
+    cin>>t;
+    while(t--) solve();
+}
+// Problem: https://codeforces.com/problemset/problem/2256/A
+// Solved independently? Y
+// Time(min): 5
+// Key idea: Brute Force
+// Why I didn't see it: N/A
+// General lesson: N/A
