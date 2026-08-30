@@ -1,9 +1,0 @@
-add_executable(target)
-target_sources(target
-    PRIVATE
-        1.cpp
-)
-target_link_libraries(target
-    PRIVATE
-        MathFunctions
-)

@@ -1,1 +1,0 @@
-Copy constructor is important as in shallow copy 2 objects point to the same place and hence when destructor on one is called and then next the same memory is tried to be deallocated two times causing crash.
